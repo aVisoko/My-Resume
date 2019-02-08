@@ -1,4 +1,4 @@
-## My-Resume
+## My Resume
 
 # Austin T. Parrish<br>
 ### 15317 Oaktree Estates Dr. Chesterfield MO, 63017 | (636) 577-3501 | austinp5196@yahoo.com<br><br>
@@ -24,35 +24,35 @@ Obtain a position where my information technology skills can be applied and atta
 
 # Skills & Abilities
  ## WEB DEVELOPMENT
-·	Javascript/JQuery
-·	HTML5
-·	CSS
-·	PHP
-·	WordPress
-·	Node.js
-·	Angular
+·	Javascript/JQuery<br>
+·	HTML5<br>
+·	CSS<br>
+·	PHP<br>
+·	WordPress<br>
+·	Node.js<br>
+·	Angular<br>
 ## PROGRAMMING
-·	C
-·	Swift
-·	Java
-·	JavaFX
-·	Python
+·	C<br>
+·	Swift<br>
+·	Java<br>
+·	JavaFX<br>
+·	Python<br>
 ## LINUX/UNIX
-·	Created DNS servers
-·	Virtual machines
-·	VM Snaps
-·	Local private networks
-·	CLI Experience
+·	Created DNS servers<br>
+·	Virtual machines<br>
+·	VM Snaps<br>
+·	Local private networks<br>
+·	CLI Experience<br>
 ## MULTIMEDIA
-·	Adobe Premiere
-·	Adobe After Effects
-·	Adobe Photoshop
-·	Adobe InDesign
-·	Adobe Illustrator
-·	VM Fusion
-·	Microsoft Office Suite
+·	Adobe Premiere<br>
+·	Adobe After Effects<br>
+·	Adobe Photoshop<br>
+·	Adobe InDesign<br>
+·	Adobe Illustrator<br>
+·	VM Fusion<br>
+·	Microsoft Office Suite<br>
 ## DATABASES
-·	Relational Databases
-·	SQL
-·	MongoDB
-·	PhpMyAdmin
+·	Relational Databases<br>
+·	SQL<br>
+·	MongoDB<br>
+·	PhpMyAdmin<br>
