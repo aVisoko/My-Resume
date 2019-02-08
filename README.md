@@ -10,15 +10,15 @@ Obtain a position where my information technology skills can be applied and atta
 ·	Emphasis in Web Development and Agile Development Methodology
 # Experience
 ## FREELANCE IT CONSULTANT | ST. LOUIS | JANUARY 2016 – PRESENT
-·	Facilitate and advise in building computers.
-·	Setup home networks for consumers.
-·	Upgrade PC hardware and software.
+·	Facilitate and advise in building computers.<br>
+·	Setup home networks for consumers.<br>
+·	Upgrade PC hardware and software.<br>
 ·	Consult end-user about technical support.
 ## BARTENDER | SYCAMORE, COLUMBIA | JANUARY 2018 – JANUARY 2019
-·	Leveraged interpersonal skills and communication leadership to cultivate a loyal clientele.
+·	Leveraged interpersonal skills and communication leadership to cultivate a loyal clientele.<br>
 ·	Recommended and led training on improvements to bar inventory management, precision pouring and waste reduction.
 ## SERVER/BARTENDER | SUB ZERO VODKA BAR, ST. LOUIS | MAY 2015 - NOVEMBER 2017
-·	Excelled at upselling customers from shelf to premium brands and high-margin signature cocktails.
+·	Excelled at upselling customers from shelf to premium brands and high-margin signature cocktails.<br>
 ·	Delivered excellent service, a positive guest experience and upselling success as a Server.
 
 
