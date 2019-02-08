@@ -1,6 +1,8 @@
 ## My Resume<br>
 This is my updated resume. You can also download the original copy above!
 
+***
+
 # Austin T. Parrish<br>
 ### 15317 Oaktree Estates Dr. Chesterfield MO, 63017 | (636) 577-3501 | austinp5196@yahoo.com<br><br>
 # Objective<br>
